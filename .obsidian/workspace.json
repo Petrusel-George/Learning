@@ -1,0 +1,195 @@
+{
+  "main": {
+    "id": "3579a60f8e7d6c7d",
+    "type": "split",
+    "children": [
+      {
+        "id": "6e3cec73adaa7096",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2762f6b197322aff",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fa107a5db60a2327",
+    "type": "split",
+    "children": [
+      {
+        "id": "eb5022e80fa677c1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "955b8da2713bb226",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "baf999d04f0ecea9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "e160de7a0929b9ab",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e0446ff0976cc522",
+    "type": "split",
+    "children": [
+      {
+        "id": "c5e3beed4bee4c88",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a7097bdb1eabfcae",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "FrontEnd/Chapter 1 HTML Basics/HTML-Basics.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for HTML-Basics"
+            }
+          },
+          {
+            "id": "b8c3019a7b117ce6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "FrontEnd/Chapter 1 HTML Basics/HTML-Basics.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from HTML-Basics"
+            }
+          },
+          {
+            "id": "04cc93df14c2b912",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "34c33ecf52ea3123",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "6eac142591a0c23b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "FrontEnd/Chapter 1 HTML Basics/HTML-Basics.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of HTML-Basics"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "2762f6b197322aff",
+  "lastOpenFiles": [
+    "FrontEnd/Chapter 1 HTML Basics",
+    "FrontEnd/Chapter 0 - How the internet works",
+    "FrontEnd",
+    "README.md",
+    "FrontEnd/Chapter 1 HTML Basics/HTML-Basics.md",
+    "FrontEnd/Chapter 1 HTML Basics/Assessment-and-Challenge.md",
+    "FrontEnd/Chapter 1 HTML Basics/Quick-Reference.md",
+    "Untitled.canvas",
+    "FrontEnd/Chapter 1 HTML Basics/HTML-Basics.html",
+    "FrontEnd/Chapter 1 HTML Basics/index.html"
+  ]
+}
