@@ -11,10 +11,14 @@
             "id": "2762f6b197322aff",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "FrontEnd/Chapter 0 - How the internet works/1. Technical Infrastructure of the Web.md",
+                "mode": "preview",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "1. Technical Infrastructure of the Web"
             }
           }
         ]
@@ -181,6 +185,11 @@
   },
   "active": "2762f6b197322aff",
   "lastOpenFiles": [
+    "FrontEnd/Chapter 0 - How the internet works/0. How to think the design of the Website.md",
+    "FrontEnd/Chapter 0 - How the internet works/1. Technical Infrastructure of the Web.md",
+    "FrontEnd/Chapter 0 - How the internet works/0.How to think the design of the Website.md",
+    "FrontEnd/Chapter 0 - How the internet works/0. How to think the design of the Website",
+    "FrontEnd/Chapter 0 - How the internet works/Technical Infrastructure of the Web.md",
     "FrontEnd/Chapter 1 HTML Basics",
     "FrontEnd/Chapter 0 - How the internet works",
     "FrontEnd",
