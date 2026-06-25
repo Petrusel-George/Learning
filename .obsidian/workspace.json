@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FrontEnd/Chapter 0 - How the internet works/0. How to think the design of the Website.md",
-                "mode": "preview",
+                "file": "README.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "0. How to think the design of the Website"
+              "title": "README"
             }
           }
         ]
@@ -186,6 +186,7 @@
   "active": "2762f6b197322aff",
   "lastOpenFiles": [
     "FrontEnd/Chapter 0 - How the internet works/1. Technical Infrastructure of the Web.md",
+    "FrontEnd/Chapter 1 HTML Basics/0. Introduction.md",
     "FrontEnd/Chapter 0 - How the internet works/0. How to think the design of the Website.md",
     "FrontEnd/Chapter 0 - How the internet works/0.How to think the design of the Website.md",
     "FrontEnd/Chapter 0 - How the internet works/0. How to think the design of the Website",
