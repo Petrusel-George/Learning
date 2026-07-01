@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FrontEnd/Chapter 0 - How the internet works/2. Basic Concepts and Terminology.md",
+                "file": "FrontEnd/Chapter 0 - How the internet works/0. How to think the design of the Website.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2. Basic Concepts and Terminology"
+              "title": "0. How to think the design of the Website"
             }
           }
         ]
@@ -183,14 +183,14 @@
       "bases:Create new base": false
     }
   },
-  "active": "955b8da2713bb226",
+  "active": "2762f6b197322aff",
   "lastOpenFiles": [
-    "FrontEnd/Chapter 0 - How the internet works/1. Technical Infrastructure of the Web.md",
-    "FrontEnd/Chapter 0 - How the internet works/0. How to think the design of the Website.md",
     "FrontEnd/Chapter 0 - How the internet works/2. Basic Concepts and Terminology.md",
+    "FrontEnd/Chapter 0 - How the internet works/1. Technical Infrastructure of the Web.md",
+    "FrontEnd/Chapter 1 HTML Basics/0. Introduction.md",
+    "FrontEnd/Chapter 0 - How the internet works/0. How to think the design of the Website.md",
     "FrontEnd/Chapter 0 - How the internet works/2. Basic Concepts and Terminology",
     "FrontEnd/Chapter 0 - How the internet works/2. Deep dive into the internet",
-    "FrontEnd/Chapter 1 HTML Basics/0. Introduction.md",
     "README.md",
     "FrontEnd/Chapter 0 - How the internet works/0.How to think the design of the Website.md",
     "FrontEnd/Chapter 0 - How the internet works/0. How to think the design of the Website",
